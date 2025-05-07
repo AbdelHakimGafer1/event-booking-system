@@ -151,9 +151,9 @@ Make sure to create `.env` files in both folders with correct PostgreSQL connect
 
 ```json
 {
-  "email": "a83986790@gmail.com",
+  "email": "abdelhakimelazaly4@gmail.com",
   "github": "https://github.com/AbdelHakimGafer1",
-  "portfolio": "https://abdelhakimgafer1.github.io/My-Website1"
+  "portfolio": "https://abdelhakeem-tech1.netlify.app"
 }
 ```
 
