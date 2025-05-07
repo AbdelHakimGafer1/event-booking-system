@@ -1,6 +1,4 @@
-تمام، هنا هو الملف كامل بصيغة `README.md` بتنسيق Markdown:
 
-````markdown
 # 🚀 Event Booking System | Areeb Technology Competition 2025
 
 > **Developed by:** Abdel Hakim Gafer  
